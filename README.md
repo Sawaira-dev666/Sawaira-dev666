@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @Sawaira-dev666
-
-<!---
-Sawaira-dev666/Sawaira-dev666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an enthusiastic and motivated individual ready to embark on my professional journey.
+ As a quick learner with a passion for exploring new challenges, I bring a fresh perspective and eagerness to contribute. 
